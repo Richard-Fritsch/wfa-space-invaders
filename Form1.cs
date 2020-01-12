@@ -33,12 +33,11 @@ namespace Final_project
         {
             InitializeComponent();
         }
-
+        Random rnd = new Random();
         private void Timer1_Tick(object sender, EventArgs e)
         {
             timePassed += 1;
-            Random rnd = new Random();            
-
+            
             DetekceKolize();
             if (invaderi.Count == 0)
             {

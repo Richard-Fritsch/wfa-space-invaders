@@ -129,5 +129,8 @@
   <ItemGroup>
     <None Include="images\bullet.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asdf.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

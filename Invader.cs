@@ -24,7 +24,7 @@ namespace Final_project
             {
                 case 1:
                     this.invaderType = 1;
-                    obrazek = Properties.Resources.invader1;
+                    obrazek = Properties.Resources.invader1_1;
                     break;
                 case 2:
                     this.invaderType = 2;

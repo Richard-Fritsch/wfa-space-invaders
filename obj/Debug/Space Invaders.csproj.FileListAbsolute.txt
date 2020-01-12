@@ -18,3 +18,12 @@ C:\Users\Richard\OneDrive - Smíchovská střední průmyslová škola\school st
 C:\Users\Richard\OneDrive - Smíchovská střední průmyslová škola\school stoof\PVA3\Final project\obj\Debug\Space Invaders.csproj.CoreCompileInputs.cache
 C:\Users\Richard\OneDrive - Smíchovská střední průmyslová škola\school stoof\PVA3\Final project\obj\Debug\Final project.exe
 C:\Users\Richard\OneDrive - Smíchovská střední průmyslová škola\school stoof\PVA3\Final project\obj\Debug\Final project.pdb
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\bin\Debug\Final project.exe.config
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\bin\Debug\Final project.exe
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\bin\Debug\Final project.pdb
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\obj\Debug\Space Invaders.csprojAssemblyReference.cache
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\obj\Debug\Final_project.Form1.resources
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\obj\Debug\Final_project.Properties.Resources.resources
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\obj\Debug\Space Invaders.csproj.GenerateResource.cache
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\obj\Debug\Final project.exe
+E:\Users\Richard\Documents\git-repos\wfa-space-invaders\obj\Debug\Final project.pdb
